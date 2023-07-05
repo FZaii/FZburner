@@ -3,8 +3,9 @@
 **<p align="center">个人设计的一款3D打印头</p>**
 <p align="center">[A burner for 3D parinter]</p>
 
+<h1 align="center">--------------80%--------------
+<p align="center">🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
-<h1 align="center">🟩🟩🟩80%🟩🟩🟩
 
 ![FZburner-MK2](Images-效果图/FZBurner_MK2.png)
  
