@@ -3,7 +3,7 @@
 **<p align="center">个人设计的一款3D打印头</p>**
 <p align="center">[A burner for 3D parinter]</p>
 
-<h1 align="center">--------------80%--------------
+<h1 align="center"> >>>>>>>>80%>>>>>====
 <p align="center">🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
 
