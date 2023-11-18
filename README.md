@@ -12,11 +12,10 @@
  ---
  
  ### 主要功能
-> - [x] 近程挤出  **- [HGX挤出机齿轮套件]**
+> - [x] 近程挤出  **- [HGX挤出机齿轮套件、集成断料检测]**
 > - [x] Dragon 热端 / Bambu 热端
-> - [x] 集成断料检测
 > - [x] 3010 热端风扇
 > - [x] 5015 物料风扇
 > - [x] 适用的X轴布局：顶置MGN12H导轨 + 2种Core XY绕线方式    **- [Voron0式] 或 [V-Core式]**
-> - [x] 支持的调平项目  **-** [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)
+> - [x] 支持的调平方式  **-** [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)
  
