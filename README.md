@@ -5,8 +5,13 @@
 
 <H1 align="center"> >>>>>>>>100%>>>>>>>>>
 <p align="center">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-<p align="center">(Alpha版 STL打印文件已上传）
+ 
+---
 
+<p align="left">✅ STL打印文件（Alpha版）---- 100%上传成功！
+<p align="left">♾ BOM表 -----------------------  99%
+
+---
 
 ![FZburner-MK2](Images-效果图/FZBurner_MK2.png)
  
