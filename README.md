@@ -22,7 +22,7 @@
 
  ---
  
-![FZburner-MK2](Images-效果图/FZBurner_MK2.png)
+![FZburner-Mk2](Images-效果图/FZBurner_Mk2.png)
 
  ---
  
