@@ -1,4 +1,4 @@
-<h1 align="center">FZburner MK2</h1>
+<h1 align="center">FZburner Mk2</h1>
 
 *<p align="center">个人设计的一款3D打印头
   <br />
