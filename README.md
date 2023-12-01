@@ -1,12 +1,17 @@
+<p align="center">
+  <a href="https://space.bilibili.com/1898517">
+    <img src="https://github.com/FZaii/FZai/blob/main/images/FZ-Logo.png" alt="Logo" width="120" height="120">
+  </a>
+    <br />
+</p>
+
 <h1 align="center">FZburner Mk2</h1>
 
 *<p align="center">个人设计的一款3D打印头
   <br />
   [A burner for 3D parinter]</p>*
 
-
-
-## <h3 align="center"> Alpha版已上传，欢迎参与测试 </h3>
+ **<h3 align="center"> Alpha版已上传，欢迎参与测试 </h3>**
  *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
