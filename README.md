@@ -47,10 +47,9 @@
 > - [x] Dragon 热端 / Bambu 热端
 > - [x] 3010 热端风扇
 > - [x] 5015 物料风扇
-> - [x] 适用的X轴布局：顶置MGN12H导轨 + 2种Core XY绕线方式(6mm 2GT同步带)    **- [Voron0式] 或 [BLV式]**
 > - [x] 支持的调平方式  **-** [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)
 > - [x] 耗材切刀
-
+> - [x] 适用的X轴布局：顶置MGN12H导轨 + 2种Core XY绕线方式(6mm 2GT同步带)    **- [Voron0式]① 或 [BLV式]②**
 ![CoreXY methods](Images-效果图/支持2种CoroXY绕线方式.png)
 
 ### BOM表
