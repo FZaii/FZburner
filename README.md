@@ -12,7 +12,7 @@
   [A burner for 3D parinter]</p>*
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner)](https://github.com/FZaii/FZburner/releases)</p>**
-**<h3 align="center"> Alpha版已上传，欢迎参与测试 </h3>**
+**<h3 align="center"> Beta版已上传，欢迎参与测试 </h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
@@ -39,7 +39,7 @@
 > - [x] ✅ STL打印文件（Alpha版）---- 100%
 > - [x] ✅ BOM表 -----------------------     100%
 > - [ ]  ♾ 安装说明 ---------------------     10%
-> - [ ]  ❕ 可编辑文件 -------------------  Beta版放出
+> - [ ]  ❕ 可编辑文件 -------------------    10%
  
 ### 功能特色
 
@@ -47,9 +47,10 @@
 > - [x] Dragon 热端 / Bambu 热端
 > - [x] 3010 热端风扇
 > - [x] 5015 物料风扇
-> - [ ] 适用的X轴布局：顶置MGN12H导轨 + 2种Core XY绕线方式    **- [Voron0式] 或 [V-Core式（beta版加入）]**
 > - [x] 支持的调平方式  **-** [**Euclid Probe**](https://github.com/nionio6915/Euclid_Probe)
-> - [ ] 耗材切刀 **（beta版加入）**
+> - [x] 耗材切刀
+> - [x] 适用的X轴布局：顶置MGN12H导轨 + 2种Core XY绕线方式(6mm 2GT同步带)    **- [Voron0式]① 或 [BLV式]②**
+![CoreXY methods](Images-效果图/支持2种CoroXY绕线方式.png)
 
 ### BOM表
 
