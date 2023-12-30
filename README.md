@@ -20,6 +20,8 @@
 ![FZburner-Mk2](Images-效果图/FZBurner_Mk2.png)
 
  ---
+![FZburner-Mk2-Exp](Images-效果图/FZburner-MK2_Exploded_View.gif)
+
 
  ## 目录
 
