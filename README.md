@@ -12,7 +12,7 @@
   [A Printhead for 3D parinter]</p>*
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner)](https://github.com/FZaii/FZburner/releases)</p>**
-**<h3 align="center"> Beta版已上传，欢迎试用 </h3>**
+**<h3 align="center"> RC候选版本已上传，欢迎试用 </h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
