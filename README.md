@@ -18,7 +18,7 @@
  ---
  
 ![FZburner-Mk2](Images-效果图/FZBurner_Mk2.png)
-> *beta版 渲染图
+> *正式版 渲染图
  ---
 
 ## 目录
