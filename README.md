@@ -12,13 +12,13 @@
   [A Printhead for 3D parinter]</p>*
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner)](https://github.com/FZaii/FZburner/releases)</p>**
-**<h3 align="center"> RC1候选版本 的step文件及STL打印文件已上传，欢迎试用 </h3>**
+**<h3 align="center"> 正式版 step文件及STL打印文件已上传，欢迎使用 </h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
 
  ---
  
 ![FZburner-Mk2](Images-效果图/FZBurner_Mk2.png)
-> beta版 渲染图
+> *beta版 渲染图
  ---
 
 ## 目录
@@ -83,8 +83,8 @@
 > - 耗材切刀
 >  
 > ![FZburner-Mk2-Exp](Images-效果图/FZburner-MK2_Exploded_View.gif)
-
-beta版 爆炸图
+>
+> *beta版 爆炸图
 
 <br />
 
