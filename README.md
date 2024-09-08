@@ -7,10 +7,6 @@
 
 <h1 align="center">FZburner Mk2</h1>
 
-*<p align="center">一款个人设计的3D打印头
-  <br />
-  [A Printhead for 3D parinter]</p>*
-
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner)](https://github.com/FZaii/FZburner/releases)</p>**
 **<h3 align="center"> 正式版 step文件及STL打印文件已上传，欢迎使用 </h3>**
 *<p align="center">反馈意见可以通过[📺BiliBili](https://space.bilibili.com/1898517)私信</p>*
