@@ -8,7 +8,7 @@
 <h1 align="center">FZburner Mk2</h1>
 
 **<p align="center">[![releases](https://img.shields.io/github/v/release/FZaii/FZburner)](https://github.com/FZaii/FZburner/releases)</p>**
-**<h3 align="center"> ✨正式版✨ 已上传，欢迎使用 </h3>**
+**<h3 align="center"> ✨正式版✨ 已上传！！！ </h3>**
 *<p align="center">反馈意见可以新开一个 [Issues](https://github.com/FZaii/FZburner/issues) 或者 [BiliBili私信](https://space.bilibili.com/1898517)</p>*
 
  ---
